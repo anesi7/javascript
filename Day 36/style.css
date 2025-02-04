@@ -1,0 +1,10 @@
+.clicked
+{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    background-color: aqua;
+    text-decoration-color: blueviolet;
+    text-align: center;
+    text-transform:uppercase ;
+}
