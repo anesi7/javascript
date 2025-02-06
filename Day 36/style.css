@@ -8,3 +8,19 @@
     text-align: center;
     text-transform:uppercase ;
 }
+#square{
+    width: 100px;
+    height: 100px;
+    background: red;
+    color: white;
+}
+
+.testing{
+    width: 100px;
+    height: 100px;
+    background: red;
+    color: aliceblue;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
